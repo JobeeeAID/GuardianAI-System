@@ -22,7 +22,9 @@ Software Requirements:
 
     Programming Language: Python ,shell scripting ...
     
-    Machine Learning Libraries and Frameworks: numpy,pandas,sklearn,matplotlib,pickle...
+    Machine Learning Libraries : numpy,pandas,sklearn,matplotlib,pickle,FastAPI...
+
+    NoteBook IDE : Jupyter .
 
     Real-Time Data Processing: For real-time analysis, stream processing systems like Apache Kafka , Apache Spark Streaming can be employed.
 
